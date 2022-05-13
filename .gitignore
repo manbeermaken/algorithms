@@ -1,0 +1,7 @@
+build/
+*
+!/**/
+!*.*
+input.txt
+output.txt
+*.exe
